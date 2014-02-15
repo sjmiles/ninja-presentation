@@ -29,11 +29,11 @@
   "dependencies": {
     "polymer": "*"
   },
-  "_release": "f8caa3f688",
+  "_release": "cc8a6f4742",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "f8caa3f688d22dc108b23c3946352b44a21e1fd2"
+    "commit": "cc8a6f4742c5ad37ee6b06d277949780c4bcc18d"
   },
   "_source": "git://github.com/sjmiles/ninja-presentation.git",
   "_target": "master",
