@@ -1,0 +1,42 @@
+{
+  "name": "ninja-presentation",
+  "homepage": "http://viniciusalmeida.github.io/ninja-presentation",
+  "description": "Do not be fooled. You do not have to be a ninja to use this toolkit for slides presentation!",
+  "main": "src/ninja-presentation.html",
+  "keywords": [
+    "slides",
+    "presentation",
+    "web",
+    "components",
+    "custom",
+    "elements"
+  ],
+  "authors": [
+    "Vinícius Almeida"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "skins",
+    "sample_assets",
+    "README.md",
+    "index.html"
+  ],
+  "dependencies": {
+    "polymer": "*"
+  },
+  "_release": "f8caa3f688",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f8caa3f688d22dc108b23c3946352b44a21e1fd2"
+  },
+  "_source": "git://github.com/sjmiles/ninja-presentation.git",
+  "_target": "master",
+  "_originalSource": "sjmiles/ninja-presentation",
+  "_direct": true
+}
